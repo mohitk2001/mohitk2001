@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-
+<h3 align="center">A passionate and wanna be developer in future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitk2001&label=Profile%20views&color=0e75b6&style=flat" alt="mohitk2001" /> </p>
 
@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohit kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit kumar" height="30" width="40" /></a>
-<a href="https://fb.com/mohit yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohit yadav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-kumar-41b85a1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-kumar-41b85a1b3/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005052815709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005052815709" height="30" width="40" /></a>
+<a href="https://instagram.com/001_mohit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="001_mohit_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitk2001&show_icons=true&locale=en&layout=compact" alt="mohitk2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitk2001&show_icons=true&locale=en" alt="mohitk2001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitk2001&" alt="mohitk2001" /></p>
