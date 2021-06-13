@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">A passionate and wanna be developer in future</h3>
+<h3 align="center">A passionate</h3>
 
 
 - 🔭 I’m currently working on **code😂**
