@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **any project which increase my coding skills**
+- 👯 I’m looking to collaborate on **any project which devlop my coding skills**
 
 - 📫 How to reach me **mohit001.hello@gmail.com**
 
