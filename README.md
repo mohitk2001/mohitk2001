@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **code😂**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **any project which devlop my coding skills**
 
