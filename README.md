@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **any project which develop my coding skills**
+
 
 - 📫 How to reach me **mohit725045.mk@gmail.com**
 
